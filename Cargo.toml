@@ -1,0 +1,12 @@
+[package]
+name = "rust-lfe-1002-william"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cortex-m = "0.7.7"
+embedded-hal = "0.2.7"
+
+regex = "1.9.6"
